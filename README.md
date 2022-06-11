@@ -15,11 +15,11 @@ Main window has two sliders to make three panels:
 
 Show editable table data and table definitions (read-only, left or right click in Table List):
 
-![Screenshot](info/TableData.png)
+![Screenshot](Info/TableData.png)
 
 Right click in Table List will show table information:
 
-![Screenshot](info/TableInfo.png)
+![Screenshot](Info/TableInfo.png)
 
 Right click on data field for context menu to copy field data to/from Text Panel.
 
@@ -32,7 +32,7 @@ Execute Query
 Edit query in text panel under table, run from Database menu.
 Resulting read-only table will be shown:
 
-![Screenshot](info/TableQuery.png)
+![Screenshot](Info/TableQuery.png)
 
 In case of errors in query: TableView will be switched to TextView and error info will be shown.
 
